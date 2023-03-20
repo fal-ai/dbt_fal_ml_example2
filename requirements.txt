@@ -1,0 +1,6 @@
+dbt-postgres
+dbt-fal[postgres]
+fal[postgres]
+scikit-learn
+matplotlib
+seaborn
